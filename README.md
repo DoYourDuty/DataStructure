@@ -65,7 +65,7 @@ void function3(List<string> data)
 
 __Algorithm will work in performance point view - Time vs Number of Records__
 
-![Big O Notation](images\BigO.jpg)
+![Big O Notation](images/BigO.jpg)
 
 > O(1), O(logn), O(n), O(nlogn), O(2n), O(n^2)
 
