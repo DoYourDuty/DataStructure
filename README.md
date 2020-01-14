@@ -83,5 +83,3 @@ _Bit O helps to identify algorithm good or bad on performance perspective_
 _DS and Algorithms should be balance_
 
 
-__Link List__ - ADT - Its represent where family of data structure, Where linear and sequential way
-
