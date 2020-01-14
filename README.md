@@ -1,2 +1,81 @@
-# DataStructure
-Data Structure
+# Data Structure
+**Way of organizing or storing data as per your scenarios and needs so that it can be access or modify in efficient way.**
+
+- # 500-600 Knowing Data structures
+- Array
+- Bit Array
+- Bit Field
+- Bitboard
+- Bitmap
+- Circular buffer
+- Control Table
+- Image
+- Dope vector
+- Dynamic Array
+- Gap buffer
+- Hashed Array Tree
+- Hightmap
+- Lookup Table
+- Matrix
+- Parallel Array
+- Sorted Array
+- Spare Matrix
+- iliffe vector
+- Variable-length Array
+- Lists
+- Doubly Linked List
+- Array List
+- Linked List
+- Self-Organizing List
+- Skip List
+- Unrolled Linked list
+- VList
+- Conc-Tree List
+- Xor Linked list
+- Zipper
+- Different List
+- Free List
+- Trees
+- Binary Trees
+- AA Tree
+- AVL Tree
+- Binary Search Tree
+- Binary Tree
+- Cartesian Tree
+- Left-Child right-sibling binary tree
+- Order statistic tree
+- Pagoda
+- Randomized binary Search tree
+- Red-Black tree
+- Rope
+- Scapegoat Tree
+- Self-Balancing Binary Search Tree
+- Splay Tree
+- T-Tree
+- Tango Tree
+- Threaded Binary Tree
+- Top Tree
+- Treap
+- WAVL tree
+- Weight-balanced tree
+- B- trees
+- B- tree
+- B+ tree
+- B*- Tree 
+- B Sharp tree
+- Dancing Tree
+- 2-3 Tree
+- 2-3-4 Tree
+- Queap
+- Fusion Tree
+- Bx-Tree
+- AList
+- Heaps
+- Heap
+- Binary Heap
+- B-Heap
+- Weak Heap
+- Binomial Heap
+- Fibonacci Heap
+- AF-Heap
+- Leonardo Heap
